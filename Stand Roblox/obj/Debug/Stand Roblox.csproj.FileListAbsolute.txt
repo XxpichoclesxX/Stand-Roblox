@@ -1,0 +1,14 @@
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Debug\Stand Roblox.exe.config
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Debug\Stand Roblox.exe
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Debug\Stand Roblox.pdb
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Debug\EasyExploits.dll
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Debug\FastColoredTextBox.dll
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.csproj.AssemblyReference.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.csproj.SuggestedBindingRedirects.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand_Roblox.Form1.resources
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand_Roblox.Properties.Resources.resources
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.csproj.GenerateResource.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.csproj.CoreCompileInputs.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.csproj.CopyComplete
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.exe
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Debug\Stand Roblox.pdb

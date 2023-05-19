@@ -1,0 +1,20 @@
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\Stand Roblox.exe.config
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\Stand Roblox.exe.manifest
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\Stand Roblox.application
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\Stand Roblox.exe
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\Stand Roblox.pdb
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\EasyExploits.dll
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\bin\Release\FastColoredTextBox.dll
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.csproj.AssemblyReference.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.csproj.SuggestedBindingRedirects.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand_Roblox.ScriptHub.resources
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand_Roblox.StandRoblox.resources
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand_Roblox.Properties.Resources.resources
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.csproj.GenerateResource.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.csproj.CoreCompileInputs.cache
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.TrustInfo.xml
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.exe.manifest
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.application
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.csproj.CopyComplete
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.exe
+D:\Cosas programadoras\Stand ROBLOX\Stand Roblox\Stand Roblox\obj\Release\Stand Roblox.pdb

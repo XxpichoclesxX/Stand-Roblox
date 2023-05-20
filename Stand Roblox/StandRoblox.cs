@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -41,6 +41,7 @@ namespace Stand_Roblox
         private void button3_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
+            openFileDialog1.Filter = "Lua Files (*.lua)|*.lua|Text Files(*.txt)|*.txt|All Files (*.*)|*.*";
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 openFileDialog1.Title = "Open";
@@ -51,6 +52,7 @@ namespace Stand_Roblox
         private void button4_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+            saveFileDialog1.Filter = "Lua Files (*.lua)|*.lua|Text Files(*.txt)|*.txt|All Files (*.*)|*.*";
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 using (Stream s = File.Open(saveFileDialog1.FileName, FileMode.CreateNew))
